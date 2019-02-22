@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Olá meu caro aluno "
+echo "Olá meu caro aluno $*"
