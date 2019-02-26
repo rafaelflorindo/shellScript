@@ -14,17 +14,19 @@ echo "Nome: $nome"
 #****DADOS CADASTRAIS****
 #Nome: rafael
 
-~$ echo $((7+5))
-12
-~$ echo $((30-10))
-20
-~$ echo $((8*4))
-32
-~$ echo $((20/2))
-10
-~$ echo $(((5+8+7+9)/4))
-7.25
-~$ echo expr 20 + 10
-30
-~$ echo expr 80 * 2
-160
+#!/bin/bash
+#script: calculoAritmetico.sh
+num1=0
+num2=0
+
+echo "** Informe os números para os cálculos abaixo. **"
+read -p "Entre com o número 01: " num1
+read -p "Entre com o número 02: " num2
+
+echo "** Resultado das operações. **"
+
+echo "Adição: num1 + num2 = $((num1 + num2))"
+echo "Subtração: num1 - num2 = $((num1 - num2))"
+echo "Multiplicação: num1 * num2 = $((num1 * num2))"
+echo "Divisão: num1 / num2 = $((num1 / num2))"
+echo "Módulo entre num1 % num2 = $((num1 % num2))"
