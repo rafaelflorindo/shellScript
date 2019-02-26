@@ -14,12 +14,17 @@ echo "Nome: $nome"
 #****DADOS CADASTRAIS****
 #Nome: rafael
 
-#!/bin/bash
-#script: capturaLogin
-echo -e "Sistema de autenticação 1.0"
-read -p "Login: " login
-read -s -p "Password: " passwd
-
-echo "Seus dados foram armazenados com sucesso!!!"
-echo "Login: $login"
-echo "Senha: $passwd"
+~$ echo $((7+5))
+12
+~$ echo $((30-10))
+20
+~$ echo $((8*4))
+32
+~$ echo $((20/2))
+10
+~$ echo $(((5+8+7+9)/4))
+7.25
+~$ echo expr 20 + 10
+30
+~$ echo expr 80 * 2
+160
