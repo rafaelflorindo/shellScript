@@ -2,8 +2,8 @@
 #script: busca1.sh
 
 echo "Buscando palavras e escrevendo a saida em arquivo"
-echo "Procura por Fusca"
-cat carros.txt | grep "Fusca" >> retorno.txt
+echo "Procura por Gol"
+cat carros.txt | grep "Gol" > retorno.txt
 echo 
 
 echo "Procura por Voyage 1."
