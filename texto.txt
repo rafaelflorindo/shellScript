@@ -4,3 +4,6 @@ qui fev 28 08:49:24 -03 2019
 >>Usuario = florindo 
 >>Diretorio Corrente = /home/florindo/IESB_Shell_Scripts/shellScript
 qui fev 28 08:49:56 -03 2019
+>>Usuario = florindo 
+>>Diretorio Corrente = /home/florindo/IESB_Shell_Scripts/shellScript
+qui fev 28 09:02:08 -03 2019
