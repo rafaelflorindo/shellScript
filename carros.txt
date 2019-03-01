@@ -1,14 +1,4 @@
-Gol
-Fusca
-Voyage 1.0
-Voyage 1.6
-Voyage 1.8
+Voyage   1.0
 Mercedes
 Gol 1.0
-Gol 1.6
-Gol 1.8
-Golf 2.0
-Palio
-Santana
-Uno
-
+Golf   2.0

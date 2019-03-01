@@ -1,0 +1,52 @@
+VOYAGE   1.0
+MERCEDES
+GOL 1.0
+GOLF   2.0
+voyage   1.0
+mercedes
+gol 1.0
+golf   2.0
+Voyage   1@0
+Mercedes
+Gol 1@0
+Golf   2@0
+Voyage 1.0
+Mercedes
+Gol 1.0
+Golf 2.0
+voyage   1.0
+mercedes
+gol 1.0
+golf   2.0
+Voyage   1@0
+Mercedes
+Gol 1@0
+Golf   2@0
+Voyage 1.0
+Mercedes
+Gol 1.0
+Golf 2.0
+voyage   1.0
+mercedes
+gol 1.0
+golf   2.0
+Voyage   1@0
+Mercedes
+Gol 1@0
+Golf   2@0
+Voyage 1.0
+Mercedes
+Gol 1.0
+Golf 2.0
+voyage   1.0
+mercedes
+gol 1.0
+golf   2.0
+Voyage   1@0
+Mercedes
+Gol 1@0
+Golf   2@0
+Voyage 1.0
+Mercedes
+Gol 1.0
+Golf 2.0
