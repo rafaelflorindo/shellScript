@@ -1,5 +1,5 @@
 #!/bin/bash
-#script: funcaoMatematica
+#script: numerosSequenciais.sh
 
 echo -e "\nGerando Sequencias"
 

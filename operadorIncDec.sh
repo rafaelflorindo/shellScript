@@ -12,7 +12,7 @@ let x++
 echo "** Valor Alterado. **"
 echo "Valor de X incrementado em 1= $x"
 
-let y--;
+let y--
 echo "Valor de X Decrementado em 1= $y"
 
 #** Valores Iniciais. **
