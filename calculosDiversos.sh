@@ -12,3 +12,5 @@ declare -a NOMES=["Rafael","Jose"]
 echo $NAME
 echo $NOMES
 
+
+
