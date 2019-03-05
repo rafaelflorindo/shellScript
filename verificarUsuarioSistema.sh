@@ -1,6 +1,6 @@
 #!/bin/bash
 #script: verificarUsuarioSistema.sh
-clear
+#clear
 echo "Script para verificar o tipo de usuario no sistema"
 echo -e "Identificador do usuario logado = $UID \n"
 if [ $UID -eq 0 ] 
