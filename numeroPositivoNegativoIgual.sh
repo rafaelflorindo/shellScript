@@ -1,6 +1,6 @@
 #!/bin/bash
 #script: numeroPositivoNegativoIgual.sh
-echo "Script para verificar se dado um numero inteiro mostre se ele e Positivo, Negativo, Igual a Zero ou nenhum deles"
+#echo "Script para verificar se dado um numero inteiro mostre se ele e Positivo, Negativo, Igual a Zero ou nenhum deles"
 read -p "Informe um valor: " numero
 echo $numero
 
