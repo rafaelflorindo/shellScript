@@ -1,13 +1,13 @@
 #!/bin/bash
 #script: verificarUsuarioSistema.sh
-#clear
-echo "Script para verificar o tipo de usuario dos sistema"
-
-if [ $UID -ne 0 ] 
+clear
+echo "Script para verificar o tipo de usuario no sistema"
+echo -e "Identificador do usuario logado = $UID \n"
+if [ $UID -eq 0 ] 
 then
-	echo "O usuario nao e root"
+	echo "Success!!! O usuario que esta logado, tem o identificador de root, desta forma pode acessar o modulo de dashboard"
 else
-	echo "Logue com usuario root"
+	echo "Warning. O usuario logado nao possui identificador de root, por este motivo nao tem permissao para acessar o modulo de dashboard, efetuar login novamento no sistema."
 fi
 
 
