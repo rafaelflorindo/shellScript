@@ -18,3 +18,7 @@ echo -e "\nValores invertidos entre: "
 echo "Variavel A = $a"
 echo "Variavel B = $b"
 
+j=9
+k=6
+let a=$j+$k
+echo $a
