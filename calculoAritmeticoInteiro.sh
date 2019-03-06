@@ -14,3 +14,5 @@ let mult=a*b
 echo "A soma dos valores A + B = $soma"
 echo "A subtracao dos valores A - B = $sub"
 echo "A multiplicacao dos valores A * B = $mult"
+
+
